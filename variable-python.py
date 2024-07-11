@@ -26,3 +26,5 @@ print(name.upper())
 print(name.lower())
 print(name.split())
 print(name.swapcase())
+
+print('hahaha')
