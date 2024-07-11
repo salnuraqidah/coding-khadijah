@@ -28,3 +28,4 @@ print(name.split())
 print(name.swapcase())
 
 print('hahaha')
+print('Tes')
