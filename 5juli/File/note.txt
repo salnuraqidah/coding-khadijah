@@ -1,0 +1,16 @@
+baris ke-1
+baris ke-2
+baris ke-3
+baris ke-4
+baris append 1
+baris append 2
+baris append 1
+baris append 2
+baris append 1
+baris append 2
+baris append 1
+baris append 2
+baris append 1
+baris append 2
+baris append 1
+baris append 2

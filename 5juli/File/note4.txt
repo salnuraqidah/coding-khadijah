@@ -1,0 +1,8 @@
+baris append 1
+baris append 2
+baris append 1
+baris append 2
+baris append 1
+baris append 2
+baris append 1
+baris append 2
